@@ -1,0 +1,7 @@
+setup.py
+am/__init__.py
+am/timeseries.py
+am.egg-info/PKG-INFO
+am.egg-info/SOURCES.txt
+am.egg-info/dependency_links.txt
+am.egg-info/top_level.txt
